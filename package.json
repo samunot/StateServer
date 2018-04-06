@@ -1,0 +1,16 @@
+{
+    "name": "vistar-media-state-server",
+    "version": "1.0.0",
+    "description": "Finding a state based on Lat and Long",
+    "main": "state_server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shubham Munot",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.3",
+        "fs": "0.0.1-security"
+    }
+}
